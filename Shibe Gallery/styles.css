@@ -1,0 +1,12 @@
+/* Use only class selectors as instructed */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
